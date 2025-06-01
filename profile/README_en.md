@@ -17,7 +17,3 @@ For all subtitle works by our group, please refer to the [Project Overview](http
 [![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 All subtitle works by this group, unless otherwise stated, are shared under the CC BY-NC-SA 4.0 license.
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MingYSub&theme=dayfox&border_radius=7&locale=en&date_format=%5BY.%5Dn.j&mode=weekly&hide_longest_streak=true)
